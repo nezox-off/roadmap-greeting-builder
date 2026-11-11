@@ -1,4 +1,4 @@
-## Instraction to run
+## Instraction to run Greeting Builder
 
 ``
   git clone https://github.com/nezox-off/roadmap-greeting-builder.git
@@ -13,3 +13,5 @@
 ``
 
 and run code.
+
+https://roadmap.sh/projects/js-greeting-builder
